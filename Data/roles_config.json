@@ -1,0 +1,68 @@
+{
+    "artist": {
+        "allowed_commands": [
+            "help",
+            "exit",
+            "quit",
+            "clear",
+            "ls",
+            "pwd",
+            "cd"
+        ]
+    },
+    "supe": {
+        "allowed_commands": [
+            "help",
+            "exit",
+            "quit",
+            "clear",
+            "ls",
+            "pwd",
+            "cd",
+            "assign",
+            "showuser"
+        ]
+    },
+    "pipe": {
+        "allowed_commands": [
+            "help",
+            "exit",
+            "quit",
+            "clear",
+            "ls",
+            "pwd",
+            "cd",
+            "get_user",
+            "showuser",
+            "assign"
+        ]
+    },
+    "rnd": {
+        "allowed_commands": [
+            "help",
+            "exit",
+            "quit",
+            "clear",
+            "ls",
+            "pwd",
+            "cd",
+            "get_user",
+            "showuser",
+            "assign"
+        ]
+    },
+    "master": {
+        "allowed_commands": [
+            "help",
+            "exit",
+            "quit",
+            "clear",
+            "ls",
+            "pwd",
+            "cd",
+            "assign",
+            "showuser",
+            "userinfo"
+        ]
+    }
+}
